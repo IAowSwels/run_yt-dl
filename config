@@ -1,0 +1,4 @@
+# config
+audio-format=mp3
+audio-quality=0
+output=/home/sd/Music/%(title)s.%(ext)s
